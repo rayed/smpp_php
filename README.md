@@ -1,5 +1,13 @@
 
 #SMPP Client written PHP#
+
+##Introduction##
+
+PHP implementation for SMPP v3.4 client. The class implements SMS sending only, the features:
+
+* Support Unicode.
+* Support Multi-part messages.
+* Supports flash messages.
  
 ##Usage##
 	<?php
